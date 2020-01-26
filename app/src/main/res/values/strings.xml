@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">TestLab</string>
+    <string name="title_main">Главная</string>
+    <string name="title_history">История</string>
+    <string name="title_exchange">История</string>
+    <string name="title_set">Настройки</string>
+    <string name="Account">Счёт создан успешно.</string>
+</resources>
